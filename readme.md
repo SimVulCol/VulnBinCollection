@@ -10,6 +10,6 @@ Each vulnerability consists of five types of data: original (including multiple 
 
 <img src="./pic/image-20240612180031823.png" alt="image-20240612180031823" style="zoom:50%;" />
 
-tpcs-s与tpcs-l作为不同大小搜索池，他们均在gcc-x86-O2的情境下进行比制作
+Tpcs-s and tpcs-l, as search pools of different sizes, were compared in the context of gcc-x86-O2.
 
 <img src="./pic/image-20240612180249849.png" alt="image-20240612180249849" style="zoom:50%;" />
