@@ -26,7 +26,7 @@ Asm2vec    [binary_function_similarity/Models/Asm2vec at main · Cisco-Talos/bin
 
 Safe            [gadiluna/SAFE: SAFE: Self-Attentive Function Embeddings for binary similarity](https://github.com/gadiluna/SAFE)](https://github.com/gadiluna/SAFE)
 
-Trex:           [CUMLSec/trex](https://github.com/CUMLSec/trex)
+Trex           [CUMLSec/trex](https://github.com/CUMLSec/trex)
 
 jTrans         [vul337/jTrans: Official code of jTrans: Jump-Aware Transformer for Binary Code Similarity Detection](https://github.com/vul337/jTrans)
 
