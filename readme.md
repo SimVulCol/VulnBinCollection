@@ -2,7 +2,7 @@
 
 Our dataset is composed of three parts: vul, tpcs-s, and tpcs-l.
 
- In the vul part, there are 10 libraries containing a total of 100 CVE vulnerabilities. 
+ In the vul part, there are 10 libraries containing a total of 100 CVE vulnerable functions. 
 
 <img src="pic\image-20240613120257076.png" alt="image-20240613120257076" style="zoom: 67%;" /><img src="pic\image-20240613120315183.png" alt="image-20240613120315183" style="zoom: 50%;" />
 
