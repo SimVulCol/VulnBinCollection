@@ -37,3 +37,5 @@ Asteria       [Asteria-BCSD/Asteria](https://github.com/Asteria-BCSD/Asteria)
 GMN          [binary_function_similarity/Models/GGSNN-GMN at main · Cisco-Talos/binary_function_similarity](https://github.com/Cisco-Talos/binary_function_similarity/tree/main/Models/GGSNN-GMN)
 
 OFCI           [sbaresearch/ofci](https://github.com/sbaresearch/ofci)
+
+CodeArt           [ziansu/codeart](https://github.com/ziansu/codeart)
